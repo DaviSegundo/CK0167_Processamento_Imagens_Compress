@@ -1,7 +1,7 @@
 import os
 import time
 import numpy as np
-from rle import encode, decode
+from algos.rle import encode, decode
 from alive_progress import alive_bar
 
 def generate_hw(fator, shape):

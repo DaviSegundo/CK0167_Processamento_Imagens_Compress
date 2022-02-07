@@ -1,5 +1,5 @@
 import argparse
-from program import Program
+from utils.program import Program
 
 print("\nCompression/Descompression Program")
 print("=================================================================\n")

@@ -1,7 +1,7 @@
 import numpy as np
 from PIL import Image
-from functions import *
-from resize_bi import resize_i_bi
+from utils.functions import *
+from algos.resize_bi import resize_i_bi
 
 import matplotlib.pyplot as plt
 
